@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates a common error related to pointer usage.  The program attempts to modify an integer variable indirectly through a pointer. The goal is to illustrate how careless pointer manipulation can lead to unexpected results. The solution demonstrates a correct way to handle pointers.
